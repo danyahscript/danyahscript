@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danyah AlHarthi</h1>
+<h1 align="center">Hi 👋, I'm Danyah</h1>
 <h3 align="center">A Junior Cybersecurity and Digital Forensics student.</h3>
 
 <h3 align="left">Connect with me:</h3>
