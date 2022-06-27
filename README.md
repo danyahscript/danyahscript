@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danyah</h1>
-<h3 align="center">A Junior Cybersecurity and Digital Forensics student.</h3>
+<h3 align="center">A Senior Cybersecurity and Digital Forensics student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=da3m0n-d&label=Profile%20views&color=0e75b6&style=flat" alt="da3m0n-d" /> </p>
 
